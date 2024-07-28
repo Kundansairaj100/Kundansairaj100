@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N Kundan</h1>
-<h3 align="center">SPACEGEEK/TECHGEEK/STRIVING FOR EXCELLENCE</h3>
+<h3 align="center">AEROSPACE Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundansairaj100&label=Profile%20views&color=0e75b6&style=flat" alt="kundansairaj100" /> </p>
 
