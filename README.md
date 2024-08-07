@@ -1,9 +1,9 @@
 # 💫 About Me:
 {
-  Name: "N Kundan"
-  isStudent: true,
-  University: "GITAM, HYD",
-  Year: "3rd Year"
+  Name: "N Kundan" ||
+  isStudent: true ||
+  University: "GITAM, HYD" || 
+  Year: "3rd Year 
 }
 
 
