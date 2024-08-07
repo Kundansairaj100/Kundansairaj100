@@ -1,10 +1,5 @@
 # 💫 About Me:
-{
-  Name: "N Kundan" ||
-  isStudent: true ||
-  University: "GITAM, HYD" || 
-  Year: "3rd Year 
-}
+N Kundan || 3rd Year CSE || Learning Full Stack ||
 
 
 ## 🌐 Socials:
