@@ -1,5 +1,10 @@
 # 💫 About Me:
-My name is N Kundan!, I am a space enthusiast!
+{
+  Name: "N Kundan"
+  isStudent: true,
+  University: "GITAM, HYD",
+  Year: "3rd Year"
+}
 
 
 ## 🌐 Socials:
