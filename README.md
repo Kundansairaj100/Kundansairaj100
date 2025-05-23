@@ -1,6 +1,7 @@
 # 💫 About Me:
-N Kundan || 3rd Year CSE || Learning Full Stack ||
-
+N Kundan
+Final Year CS GITAM Hyderabad
+Full Stack & Cloud Tech Enthusiast
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nkundan) 
