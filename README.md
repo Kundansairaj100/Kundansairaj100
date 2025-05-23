@@ -1,6 +1,6 @@
 # 💫 About Me:
-N Kundan
-Final Year CS GITAM Hyderabad
+N Kundan |
+Final Year CS GITAM Hyderabad |
 Full Stack & Cloud Tech Enthusiast
 
 ## 🌐 Socials:
